@@ -1,0 +1,14 @@
+@import url("./reset.scss");
+body {
+  background: linear-gradient(49deg, #116181, #141313);
+  background-size: 100vw 100vh;
+}
+
+.hello-world {
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20%;
+}

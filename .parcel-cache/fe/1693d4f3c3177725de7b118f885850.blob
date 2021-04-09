@@ -1,0 +1,5 @@
+body {
+  background: linear-gradient(49deg, #116181, #141313);
+  background-size: 100vw 100vh;
+}
+/*# sourceMappingURL=index.HASH_REF_e40b2f414315ce9ebcc35ea141d85855.css.map */
